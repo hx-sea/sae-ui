@@ -3,8 +3,6 @@ import "./App.css";
 
 function App() {
   const [count, setCount] = useState(0);
-  const say = (worlds: string) => {};
-  say(121223331);
   return (
     <div className="App">
       <header className="App-header">
