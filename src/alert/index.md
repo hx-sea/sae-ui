@@ -1,5 +1,5 @@
 ---
-title: Alert 警告提示
+title: Image 轮播图片
 nav:
   title: 组件
   order: 2
@@ -8,9 +8,7 @@ group:
   order: 1
 ---
 
-# Alert 警告提示
-
-警告提示，展现需要关注的信息。
+# Image 轮播图片
 
 ## 代码演示
 

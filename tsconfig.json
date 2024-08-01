@@ -13,6 +13,6 @@
     "resolveJsonModule": true,
     "skipLibCheck": true,
   },
-  "include": ["src", "typings.d.ts"],
+  "include": ["src", "declarations.d.ts"],
   "exclude": ["node_modules", "lib", "esm", "dist", "typings", "**/__test__", "test", "tests"]
 }
