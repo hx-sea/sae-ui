@@ -1,0 +1,9 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "declaration": true, // 启用声明文件生成
+    "emitDeclarationOnly": true, // 只生成声明文件
+    "noEmit": false // 覆盖父配置中的 noEmit 选项
+  },
+  "exclude": ["**/__tests__/**", "**/demo/**", "node_modules", "lib", "esm"] // 排除示例、测试以及打包好的文件夹
+}
