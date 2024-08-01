@@ -14,7 +14,7 @@ const entryExports = {
 };
 
 // Static content
-const pkg = {"name":"sae-ui","version":"1.0.0","license":"MIT","repository":"https://github.com/hx-sea/sae-ui.git","author":"sea"};
+const pkg = {"name":"@xh/sea-ui","version":"1.0.0","license":"MIT","repository":"https://github.com/hx-sea/sae-ui.git","author":"sea"};
 const historyType = "browser";
 const hostname = undefined;
 const themeConfig = {"footer":"Copyright © 2024 | Powered by <a href=\"https://d.umijs.org\" target=\"_blank\" rel=\"noreferrer\">dumi</a>","prefersColor":{"default":"light","switch":true},"nprogress":true,"lastUpdated":true,"name":"Sea UI","sourceLink":"https://github.com/hx-sea/sae-ui/tree/master/{fileName}#L{line}","editLink":"https://github.com/hx-sea/sae-ui/edit/master/{filename}"};
